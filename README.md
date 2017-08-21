@@ -31,7 +31,7 @@ Center drone landing skids on wire landing gear.  The landing gear should be ori
 1. Control Module. 
 Attach to the drone aft of the camera.  Make sure control panel switches are facing aft.  Connect using two zipties; there are holes in the control module for this purpose.
 1. Photo Resistor. 
-??????????
+As demonstrated in the video, take the photoresistor and center it on one of the controllable LEDs. Use opaque tape to secure the photoresistor against the LED. Use enough tape to completely block out all light so that the control module can be signaled with the LED.
 1. Speaker. 
 Hold the power button on the speaker until it turn on.  There should be a recorded voice telling you "Powering On".  Press the + button multiple times for maximum output volume.  Attach the 3.5 mm audo jack to the speaker.  Center the speaker beneath the landing gear, so that the speaker is pointed downwards.  Use the two larger, clear zipties to secure the speaker.  Run one of the zipties through the speaker's carrying loop. 
 1. Leaflet Dropper. 
@@ -40,8 +40,7 @@ Hold the power button on the speaker until it turn on.  There should be a record
 
 ## Operation
 
-??????
-**TIM.  NOT SURE IF ORDER OR VERBIAGE ARE RIGHT HERE**
+Before turning on the control module, the drone must be powered on, and the LEDs must be placed in the ON state. The control module is signaled when the LEDs are turned off. This means that the Dropper will drop the leaflets, the audio will be turned on, and the radio will start broacasting, when the LED is turned off. Therefore, to reiterate, the LED must be in the ON state before operation.
 
 ### The controls
 
@@ -56,11 +55,14 @@ Hold the power button on the speaker until it turn on.  There should be a record
   * Speaker
   * Radio
 
+The left 3-position switch determines the mode. When the mode is changed, the Control Module must be power-cycled. The right 2-position switch determines where the audio is routed. 
+
 ### Operating the Loudspeaker
-???????
+
+To use the loudspeaker, ensure it is turned on. It will turn itself off if the Control Module is off for an extended period of time. Place the left 3-position switch in the "Audio/Speaker" mode. Place the right 2-position switch in the "Speaker" position. The audio is turned on by turning off the drone's LEDs using the controller.
+
 ### Operating the Leaflet Dropper
 **Caution:** The 'bomb bay door' of the leaflet dropper can jam shut if it is placed on a flat surface and any weight/force is put on it.  If this happens the leaflet dropper will not open.  This can be repaired by gently (gently!) prying open the bomb bay door.  There should be a slight gap between the door and side of the dropper.
 ### Operating the FM Radio
-?????????
-Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
+Place the left 3-position switch in radio mode, and the right 2-position switch to the "Radio" position. The radio will start transmitting when the drone's LEDs are turned off. Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
 
