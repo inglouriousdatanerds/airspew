@@ -24,6 +24,18 @@ What project designed by veterans would be complete without a roll of duct tape?
 A ziploc bag of zipties is used to attach components to the DJI 4 Phantom.
 
 ## Installation
+There is a video with installation instructions.  This text is to augment the video.
+
+1. Landing Gear
+Center drone landing skids on wire landing gear.  The landing gear should be oriented such that it entends port and starboard, **not** fore and aft.  Use 4 of the small red zip ties to secure the landing gear to the drone landing skids.
+1. Control Module ?????????
+1. Photo Resistor ??????????
+1. Speaker
+Hold the power button on the speaker until it turn on.  There should be a recorded voice telling you "Powering On".  Press the + button multiple times for maximum output volume.  Attach the 3.5 mm audo jack to the speaker.  Center the speaker beneath the landing gear, so that the speaker is pointed downwards.  Use the two larger, clear zipties to secure the speaker.  Run one of the zipties through the speaker's carrying loop. 
+1. Leaflet Dropper
+
+
+## Operation
 
 
 The controls
