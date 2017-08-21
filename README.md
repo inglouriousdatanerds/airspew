@@ -29,32 +29,37 @@ There is a video with installation instructions.  This text is to augment the vi
 1. Landing Gear. 
 Center drone landing skids on wire landing gear.  The landing gear should be oriented such that it entends port and starboard, **not** fore and aft.  Use 4 of the small red zip ties to secure the landing gear to the drone landing skids.
 1. Control Module. 
-?????????
+Attach to the drone aft of the camera.  Make sure control panel switches are facing aft.  Connect using two zipties; there are holes in the control module for this purpose.
 1. Photo Resistor. 
 ??????????
 1. Speaker. 
 Hold the power button on the speaker until it turn on.  There should be a recorded voice telling you "Powering On".  Press the + button multiple times for maximum output volume.  Attach the 3.5 mm audo jack to the speaker.  Center the speaker beneath the landing gear, so that the speaker is pointed downwards.  Use the two larger, clear zipties to secure the speaker.  Run one of the zipties through the speaker's carrying loop. 
 1. Leaflet Dropper. 
-**Load the leaflet dropper prior to installation!**  Installation will require some dexterity and finesse.  The dropper is held in place with bent paperclips, whihc in turn are held onto the dropper with rubberbands.  Note there are "studs" in the balsa wood to prevent rubberband slippage.  Center the lid of the leaflet dropper under the drone landing skids.  This placement increases the lift of the drone (decreases it the least actually).  Push the hooked paperclips up through the square holes in the rabbit fencing and position the hooks so the dropper hangs from them.
+**Load the leaflet dropper prior to installation!**  Installation will require some dexterity and finesse.  The dropper is held in place with bent paperclips, whihc in turn are held onto the dropper with rubberbands.  Note there are "studs" in the balsa wood to prevent rubberband slippage.  Center the lid of the leaflet dropper under the drone landing skids.  This placement increases the lift of the drone (decreases it the least actually).  Push the hooked paperclips up through the square holes in the rabbit fencing and position the hooks so the dropper hangs from them.  Connnect the leaflet dropper to the control module with appropriate connector.  The blue wire on the control module connector should be attached to the ground (black) wire on the leaflet dropper.
 
 
 ## Operation
 
 
+**TIM.  NOT SURE IF ORDER OR VERBIAGE ARE RIGHT HERE**
+
 The controls
 
-from Left to Right
-
-Radio
-Leaflet
-Speaker
-
-ON/OFF
+* Left 3-position switch
+..* Radio
+..* Leaflet
+..* Speaker
+* Center 2-position switch
+..* ON
+..* OFF
+* Right 2-position switch
+..* Speaker
+..* Radio
 
 Radio/Speaker
 
 
-FM Radio
+### FM Radio
 
-Frequency 91.3 MHz
+Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
 
