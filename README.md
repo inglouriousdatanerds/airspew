@@ -40,7 +40,7 @@ Hold the power button on the speaker until it turn on.  There should be a record
 
 ## Operation
 
-
+??????
 **TIM.  NOT SURE IF ORDER OR VERBIAGE ARE RIGHT HERE**
 
 ### The controls
@@ -57,10 +57,10 @@ Hold the power button on the speaker until it turn on.  There should be a record
   * Radio
 
 ### Operating the Loudspeaker
-
+???????
 ### Operating the Leaflet Dropper
-
+????????
 ### Operating the FM Radio
-
+?????????
 Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
 
