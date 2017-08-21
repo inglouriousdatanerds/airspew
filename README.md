@@ -26,15 +26,15 @@ A ziploc bag of zipties is used to attach components to the DJI 4 Phantom.
 ## Installation
 There is a video with installation instructions.  This text is to augment the video.  The drone is designed to carry either the speaker or the leaflet dropper.  One component must be removed before the adding the other.  The fm radio transmitter and wire antenna are permamently stored in the control module.
 
-1. Landing Gear
+1. Landing Gear. 
 Center drone landing skids on wire landing gear.  The landing gear should be oriented such that it entends port and starboard, **not** fore and aft.  Use 4 of the small red zip ties to secure the landing gear to the drone landing skids.
-1. Control Module
+1. Control Module. 
 ?????????
-1. Photo Resistor
+1. Photo Resistor. 
 ??????????
-1. Speaker
+1. Speaker. 
 Hold the power button on the speaker until it turn on.  There should be a recorded voice telling you "Powering On".  Press the + button multiple times for maximum output volume.  Attach the 3.5 mm audo jack to the speaker.  Center the speaker beneath the landing gear, so that the speaker is pointed downwards.  Use the two larger, clear zipties to secure the speaker.  Run one of the zipties through the speaker's carrying loop. 
-1. Leaflet Dropper
+1. Leaflet Dropper. 
 **Load the leaflet dropper prior to installation!**  Installation will require some dexterity and finesse.  The dropper is held in place with bent paperclips, whihc in turn are held onto the dropper with rubberbands.  Note there are "studs" in the balsa wood to prevent rubberband slippage.  Center the lid of the leaflet dropper under the drone landing skids.  This placement increases the lift of the drone (decreases it the least actually).  Push the hooked paperclips up through the square holes in the rabbit fencing and position the hooks so the dropper hangs from them.
 
 
