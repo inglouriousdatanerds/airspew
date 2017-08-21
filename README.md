@@ -59,7 +59,7 @@ Hold the power button on the speaker until it turn on.  There should be a record
 ### Operating the Loudspeaker
 ???????
 ### Operating the Leaflet Dropper
-????????
+**Caution:** The 'bomb bay door' of the leaflet dropper can jam shut if it is placed on a flat surface and any weight/force is put on it.  If this happens the leaflet dropper will not open.  This can be repaired by gently (gently!) prying open the bomb bay door.  There should be a slight gap between the door and side of the dropper.
 ### Operating the FM Radio
 ?????????
 Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
