@@ -62,7 +62,12 @@ The left 3-position switch determines the mode. When the mode is changed, the Co
 To use the loudspeaker, ensure it is turned on. It will turn itself off if the Control Module is off for an extended period of time. Place the left 3-position switch in the "Audio/Speaker" mode. Place the right 2-position switch in the "Speaker" position. The audio is turned on by turning off the drone's LEDs using the controller.
 
 ### Operating the Leaflet Dropper
+
+To use the leaflet dropper, place the left 3-position switch in the "Leaflet" mode.  The leaflets are dropped by turning off the drone's LEDs using the controller.
+
 **Caution:** The 'bomb bay door' of the leaflet dropper can jam shut if it is placed on a flat surface and any weight/force is put on it.  If this happens the leaflet dropper will not open.  This can be repaired by gently (gently!) prying open the bomb bay door.  There should be a slight gap between the door and side of the dropper.
+
+
 ### Operating the FM Radio
 Place the left 3-position switch in radio mode, and the right 2-position switch to the "Radio" position. The radio will start transmitting when the drone's LEDs are turned off. Tune in to frequency 91.3 MHz to hear audio message.  Hopefully, this will be "Welcome to the Jungle" by GNR.
 
