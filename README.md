@@ -6,7 +6,7 @@
 Has an exterior of sturdy, USA manufactured plastic.  The removable front panel has three control switches, described below.  External wiring connections exist for a photoresistor, leaflet dropper and audio output.  Within the control module are an Arduino UNO, an Adafruit Music Maker Sound Shield and an Adafruit FM radio transmitter.  A powerful 9V battery and a microSD card are replaceable components.
 
 ### Photoresistor
-??????
+An integrated component complete with a potentiometer for sensitivity adjustment. The sensitivity can be adjusted by removing the control module’s front panel and rotating the potentiometer with a screwdriver. The photoresistor is extended from the component board with a wire so that it can be attached to the drone’s controllable LED. The output of the photoresistor component board conveniently reads two discrete voltage levels to the Arduino, representing a 1 or a 0.
 
 ### Leaflet Dropper
 Scaled down to handle index card sized leaflets, this component is made out of fragile balsa wood, plastic hinges, and superglue.  It also features rubberbands and bent paper clips.  Be careful with it; two hinges once fell off when Tim gave it a mean look. Load leaflets by lifting the top lid, which is secured with Velcro (tm).
