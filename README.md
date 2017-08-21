@@ -46,15 +46,15 @@ Hold the power button on the speaker until it turn on.  There should be a record
 The controls
 
 * Left 3-position switch
-..* Radio
-..* Leaflet
-..* Speaker
+  * Radio
+  * Leaflet
+  * Speaker
 * Center 2-position switch
-..* ON
-..* OFF
+  * ON
+  * OFF
 * Right 2-position switch
-..* Speaker
-..* Radio
+  * Speaker
+  * Radio
 
 Radio/Speaker
 
