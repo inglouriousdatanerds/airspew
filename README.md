@@ -40,7 +40,7 @@ Hold the power button on the speaker until it turn on.  There should be a record
 
 ## Operation
 
-Before turning on the control module, the drone must be powered on, and the LEDs must be placed in the ON state. The control module is signaled when the LEDs are turned off. This means that the Dropper will drop the leaflets, the audio will be turned on, and the radio will start broacasting, when the LED is turned off. Therefore, to reiterate, the LED must be in the ON state before operation.
+Before turning on the control module, the drone must be powered on, and the LEDs must be placed in the ON state. The control module is signaled when the LEDs are turned off. This means that, depending on the selected mode, when the LEDs are turned off, the Dropper will drop the leaflets, the audio will be turned on, or the radio will start broacasting. Therefore, to reiterate, the LED must be in the ON state before the Control Module is turned on.
 
 ### The controls
 
