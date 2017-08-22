@@ -1,5 +1,9 @@
 # airspew
 
+## Video
+
+This readme is a supplement to the instructional video found at: https://youtu.be/oemmYHsJMOQ. Please see the video in addition to reading this document.
+
 ## Components
 
 ### Control Module
