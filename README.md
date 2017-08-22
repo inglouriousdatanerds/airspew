@@ -24,7 +24,7 @@ What project designed by veterans would be complete without a roll of duct tape?
 A ziploc bag of zipties is used to attach components to the DJI 4 Phantom.
 
 ## Installation
-There is a video with installation instructions.  This text is to augment the video.  The drone is designed to carry either the speaker or the leaflet dropper.  One component must be removed before the adding the other.  The fm radio transmitter and wire antenna are permamently stored in the control module.
+There is a video with installation instructions. Please find the video at https://youtu.be/oemmYHsJMOQ. This text is to augment the video.  The drone is designed to carry either the speaker or the leaflet dropper.  One component must be removed before the adding the other.  The fm radio transmitter and wire antenna are permamently stored in the control module.
 
 1. Landing Gear. 
 Center drone landing skids on wire landing gear.  The landing gear should be oriented such that it entends port and starboard, **not** fore and aft.  Use 4 of the small red zip ties to secure the landing gear to the drone landing skids.
